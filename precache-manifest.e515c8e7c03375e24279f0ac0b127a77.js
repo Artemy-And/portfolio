@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7a2a7c8e9858765a12187834c6e6990",
+    "revision": "01510d9133651d256bc1e57711c22a8c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7c6626cfc1e1a79c9b2e",
-    "url": "/portfolio/static/css/main.8bff3b7d.chunk.css"
+    "revision": "048e86caf817055d2d1f",
+    "url": "/portfolio/static/css/main.3b8fd956.chunk.css"
   },
   {
-    "revision": "eb726c0dd6ab05d66180",
-    "url": "/portfolio/static/js/2.b3304000.chunk.js"
+    "revision": "58d44d3c7d70454756f3",
+    "url": "/portfolio/static/js/2.66487639.chunk.js"
   },
   {
     "revision": "9b73840e8f87bae10f937ec158a37518",
-    "url": "/portfolio/static/js/2.b3304000.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.66487639.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c6626cfc1e1a79c9b2e",
-    "url": "/portfolio/static/js/main.951e9fe1.chunk.js"
+    "revision": "048e86caf817055d2d1f",
+    "url": "/portfolio/static/js/main.f3ea1fc3.chunk.js"
   },
   {
     "revision": "b417b3ee81e3e8f9aad5",
@@ -44,7 +44,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/logistics-socialnet.1276b4e9.jpg"
   },
   {
-    "revision": "a7b4670d4204364107387f260b8b5fde",
-    "url": "/portfolio/static/media/todolist.a7b4670d.jpg"
+    "revision": "83647b9623e2a1815e3debe7fddb46eb",
+    "url": "/portfolio/static/media/simon.83647b96.jpg"
+  },
+  {
+    "revision": "2521b2e2e88aab8ae2916aa2688ebd1c",
+    "url": "/portfolio/static/media/todolist.2521b2e2.jpg"
   }
 ]);

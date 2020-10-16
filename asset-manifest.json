@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8bff3b7d.chunk.css",
-    "main.js": "/portfolio/static/js/main.951e9fe1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.951e9fe1.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.3b8fd956.chunk.css",
+    "main.js": "/portfolio/static/js/main.f3ea1fc3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f3ea1fc3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b649af6b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b649af6b.js.map",
-    "static/js/2.b3304000.chunk.js": "/portfolio/static/js/2.b3304000.chunk.js",
-    "static/js/2.b3304000.chunk.js.map": "/portfolio/static/js/2.b3304000.chunk.js.map",
+    "static/js/2.66487639.chunk.js": "/portfolio/static/js/2.66487639.chunk.js",
+    "static/js/2.66487639.chunk.js.map": "/portfolio/static/js/2.66487639.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.efcf2a8d7e5f154dcdfe685af96698a4.js": "/portfolio/precache-manifest.efcf2a8d7e5f154dcdfe685af96698a4.js",
+    "precache-manifest.e515c8e7c03375e24279f0ac0b127a77.js": "/portfolio/precache-manifest.e515c8e7c03375e24279f0ac0b127a77.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.8bff3b7d.chunk.css.map": "/portfolio/static/css/main.8bff3b7d.chunk.css.map",
-    "static/js/2.b3304000.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b3304000.chunk.js.LICENSE.txt",
+    "static/css/main.3b8fd956.chunk.css.map": "/portfolio/static/css/main.3b8fd956.chunk.css.map",
+    "static/js/2.66487639.chunk.js.LICENSE.txt": "/portfolio/static/js/2.66487639.chunk.js.LICENSE.txt",
     "static/media/Facebook.jpg": "/portfolio/static/media/Facebook.a3f07c24.jpg",
     "static/media/IMG.jpeg": "/portfolio/static/media/IMG.3274ec90.jpeg",
     "static/media/cv.pdf": "/portfolio/static/media/cv.e204fb9b.pdf",
     "static/media/instagram.jpeg": "/portfolio/static/media/instagram.62215dbf.jpeg",
     "static/media/logistics-socialnet.jpg": "/portfolio/static/media/logistics-socialnet.1276b4e9.jpg",
-    "static/media/todolist.jpg": "/portfolio/static/media/todolist.a7b4670d.jpg"
+    "static/media/simon.jpg": "/portfolio/static/media/simon.83647b96.jpg",
+    "static/media/todolist.jpg": "/portfolio/static/media/todolist.2521b2e2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b649af6b.js",
-    "static/js/2.b3304000.chunk.js",
-    "static/css/main.8bff3b7d.chunk.css",
-    "static/js/main.951e9fe1.chunk.js"
+    "static/js/2.66487639.chunk.js",
+    "static/css/main.3b8fd956.chunk.css",
+    "static/js/main.f3ea1fc3.chunk.js"
   ]
 }
