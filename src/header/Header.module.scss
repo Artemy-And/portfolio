@@ -1,0 +1,32 @@
+@import "./src/common/styles/sass/variables.scss";
+/*@import "../src/common/styles/sass/variables";*/
+.header {
+    height: 80px;
+    border: 1px solid #5f715f;
+    background-color: $primaryColor;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    ;
+
+}
+
+
+@media screen and (max-width: 375px){
+
+
+        /*align-items: initial;*/
+        /*justify-content: center;*/
+    .header {
+        height: 80px;
+        border: 1px solid #5f715f;
+        background-color: aquamarine;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    ;
+
+    }
+
+
+}

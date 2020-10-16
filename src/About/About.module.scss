@@ -1,0 +1,73 @@
+@import "src/common/styles/sass/variables";
+.worksBlock {
+  min-height: 100vh;
+  /* у Светы*/
+  /*height: 100vh;*/
+  background-color: #334452;
+
+  .worksContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    background-color: #FFFFFF;
+
+    .works {
+      //border: 1px solid;
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      /*align-items: center;*/
+      /*text-align: left;*/
+      flex-wrap: wrap;
+      /*align-items: flex-start;*/
+      @media screen and (min-width: 1129px) {
+        justify-content: space-between;
+    }
+
+
+  }
+
+}
+
+
+.title {
+  /*background-color: #D1D0CE;*/
+  margin: 0 0 30px;
+  font-family: 'Lato', sans-serif;
+  font-width: bold;
+  position: relative;
+  font-size: 28px;
+  line-height: 1.2em;
+  color: #FFFFFF;
+  text-transform: capitalize;
+  //.title::before{
+  //  position: absolute;
+  //  background: red;
+  //  width: 6666px;
+  //  height: 5000px;
+  //}
+}
+
+
+.title h2 {
+  color: #151C25;
+  margin: 0;
+
+}
+  //.title::before{
+  //  content: '';
+  //  position: absolute;
+  //  background: red;
+  //  width: 55px;
+  //  height: 1px;
+  //}
+
+
+  .works {
+
+  }
+}
+
+
+/*"Lato", Sans-serif;*/

@@ -1,0 +1,23 @@
+.nav {
+    width: 320px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+
+a{
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    cursor: pointer;
+}
+.active{
+    color: #505050
+}
+a:hover{
+    color: #66737D
+}
+
+@media screen and (min-width: 400px){
+    display:none
+}

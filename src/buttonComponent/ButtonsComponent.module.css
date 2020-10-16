@@ -1,0 +1,8 @@
+import React from "react";
+
+export const ButtonsComponent = ()=>{
+    return(<div className={}>
+        <div>DOWNLOAD RESUME</div>
+        <div>VIEW PORTFOLIO</div>
+    </div>)
+}

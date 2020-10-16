@@ -1,0 +1,56 @@
+.worksBlock {
+    min-height: 100vh;
+    /* у Светы*/
+    /*height: 100vh;*/
+    background-color: #323440;
+}
+
+.worksContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+
+
+}
+
+
+.title {
+    /*background-color: #D1D0CE;*/
+
+    margin: 0 0 30px;
+    font-family: 'Lato', sans-serif;
+    font-width: bold;
+
+
+    font-size: 28px;
+    line-height: 1.2em;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.title h2 {
+
+    margin: 0;
+
+}
+
+.works {
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /*align-items: center;*/
+    /*text-align: left;*/
+    flex-wrap: wrap;
+    /*align-items: flex-start;*/
+}
+
+@media screen and (min-width: 1129px) {
+    .works {
+        justify-content: space-between;
+    }
+}
+
+
+/*"Lato", Sans-serif;*/

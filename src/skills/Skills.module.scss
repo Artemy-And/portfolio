@@ -1,0 +1,43 @@
+.skillsBlock {
+    /*min-height: 100vh;*/
+    background-color: azure;
+}
+
+.skillsContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.title {
+    /*background-color: wheat;*/
+
+
+    border: 1px solid burlywood;
+}
+
+.skills {
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+
+
+}
+
+@media screen and (max-width: 375px){
+.skills{
+    justify-content: center;
+}
+}
+
+
+/*@media screen and (max-width: 375px){*/
+/*    .skills{*/
+/*        justify-content: center;*/
+/*    }*/
+/*}*/

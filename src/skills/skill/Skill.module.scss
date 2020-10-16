@@ -1,0 +1,14 @@
+.skill{
+    width: 250px;
+   background-color: darkcyan;
+    flex-direction: column;
+    display: flex;
+}
+
+
+
+@media screen and (max-width: 375px){
+    .skill{
+        justify-content: center;
+    }
+}
